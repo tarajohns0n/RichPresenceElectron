@@ -60,7 +60,7 @@
     }
   },
   "dependencies": {
-    "electron-squirrel-startup": "^1.0.0",
+    "electron-squirrel-startup": "^1.0.1",
     "express": "^4.17.1",
     "rich-presence-builder": "^0.1.1"
   },
